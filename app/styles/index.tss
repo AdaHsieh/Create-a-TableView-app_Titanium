@@ -1,0 +1,25 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"#tab1":{
+	title:"Costom Rows",
+	icon:"image/KS_nav_views.png"
+}
+
+"#win1":{
+	title:"Custom Row"    	
+}
+"#c1":{
+
+	leftImage:"/image/gb.png",
+}
+"#c2":{	
+	leftImage:"/image/es.png",
+}
+"#c3":{
+	leftImage:"/image/fr.png"	
+}
+"#c4":{
+	leftImage:"/image/us.png"
+}

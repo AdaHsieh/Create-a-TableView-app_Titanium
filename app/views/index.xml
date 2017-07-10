@@ -1,0 +1,16 @@
+<Alloy>
+	
+	<TabGroup>	
+		<Tab id="tab1">
+			<Window class="container" id="win1">
+		<TableView>
+			<TableViewRow id="c1" title="Britain" hasChild="true" onClick="doClick1"></TableViewRow>
+			<TableViewRow id="c2" title="Spain" hasChild="true"></TableViewRow>
+			<TableViewRow id="c3" title="France" hasChild="true"></TableViewRow>
+			<TableViewRow id="c4" title="United States" hasChild="true" ></TableViewRow>
+		</TableView>
+		</Window>
+		</Tab>
+	</TabGroup>
+	
+</Alloy>
